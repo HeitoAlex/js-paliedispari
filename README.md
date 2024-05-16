@@ -16,9 +16,9 @@ Scriviamo sempre solo un pezzetto di codice alla volta, se funziona allora andia
 Palindroma
 chiedo all'utente tramite un prompt di scrivere una parola e la salvo in una variabile
 creo una funzione per invertire la parola
-definisco una costante
+definisco una variabile
 utilizzo il ciclo for che legga le lettere della parola utente dall'ultima alla prima 
-ritorno il risultato del ciclo for salvato nella costante 
+ritorno il risultato del ciclo for salvato nella variabile 
 creo un if con la condizione che se comparando le due parole ho un'uguaglianza totale allora la risposta è vera altrimenti la risposta è falsa 
 
 Pari e Dispari
